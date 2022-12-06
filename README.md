@@ -4,7 +4,7 @@
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neoblacks&layout=compact&theme=dark)](
 #
-[![Neoblacks's | Antoine GitHub stats](https://github-readme-stats.vercel.app/api?username=Neoblacks&show_icons=true&theme=dark)](
+[![Neoblacks's | Antoine GitHub stats](https://github-readme-stats.vercel.app/api?username=Neoblacks&show_icons=true&theme=dark)
 
 #
 <!-- ## **Current Cursus :**

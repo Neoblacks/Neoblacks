@@ -2,9 +2,9 @@
 
 ### I'm a student at [42](https://www.42.fr/) (Paris, France) since November 2022.
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neoblacks&layout=compact&theme=dark)](
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neoblacks&layout=compact&theme=dark)
 #
-[![Neoblacks's | Antoine GitHub stats](https://github-readme-stats.vercel.app/api?username=Neoblacks&show_icons=true&theme=dark)
+![Neoblacks's | Antoine GitHub stats](https://github-readme-stats.vercel.app/api?username=Neoblacks&show_icons=true&theme=dark)
 
 #
 <!-- ## **Current Cursus :**

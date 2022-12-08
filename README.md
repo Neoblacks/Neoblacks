@@ -2,14 +2,12 @@
 
 ### I'm a student at [42](https://www.42.fr/) (Paris, France) since November 2022.
 #
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neoblacks&layout=compact&theme=dark)
-#
-![Neoblacks's | Antoine GitHub stats](https://github-readme-stats.vercel.app/api?username=Neoblacks&show_icons=true&theme=dark)
+![Neoblacks's | Antoine GitHub stats](https://github-readme-stats.vercel.app/api?username=Neoblacks&show_icons=true&theme=dark)	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neoblacks&layout=compact&theme=dark)
 
-#
-<!-- ## **Current Cursus :**
+<!-- ## **Current Cursus :** -->
 
-## **Piscine Stats :** -->
+[![amugnier's 42 stats](https://badge42.vercel.app/api/v2/clbc9pteu00060fmdrhmtcycw/stats?cursusId=9&coalitionId=108)](https://github.com/JaeSeoKim/badge42) [![amugnier's 42 stats](https://badge42.vercel.app/api/v2/clbc9pteu00060fmdrhmtcycw/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
+
 
 <!-- Languages used column 1 and softwares used column 2 all colomumn are Bold-->
 
@@ -20,8 +18,7 @@
 | <img align="left" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> | <img align="left" alt="Premiere pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 | <img align="left" alt="Makefile" src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu-make&logoColor=white" /> | <img align="left" alt="In design" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" /> |
 | | <img align="left" alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" /> |
-<!-- |
-| <img align="left" alt="Node js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /> | <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /> | -->
+
 
 
 

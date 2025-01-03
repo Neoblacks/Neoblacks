@@ -6,8 +6,6 @@
 
 <!-- ## **Current Cursus :** -->
 
-[![amugnier's 42 stats](https://badge42.vercel.app/api/v2/clbc9pteu00060fmdrhmtcycw/stats?cursusId=9&coalitionId=108)](https://github.com/JaeSeoKim/badge42) [![amugnier's 42 stats](https://badge42.vercel.app/api/v2/clbc9pteu00060fmdrhmtcycw/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
-
 
 <!-- Languages used column 1 and softwares used column 2 all colomumn are Bold-->
 

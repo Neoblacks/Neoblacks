@@ -1,9 +1,5 @@
 # Hello world 🖖
 
-### I'm a student at [42](https://www.42.fr/) (Paris, France) since November 2022.
-
-# Welcome to my GitHub! 👋
-
 Currently a student at Ecole 42 since November 2022, I've had the opportunity to develop my skills through various common core projects. These projects have enabled me to strengthen my programming foundations, explore new technologies and take on stimulating technical challenges. :
 
 ---

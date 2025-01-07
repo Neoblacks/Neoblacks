@@ -1,6 +1,48 @@
 # Hello world 🖖
 
 ### I'm a student at [42](https://www.42.fr/) (Paris, France) since November 2022.
+
+# Welcome to my GitHub! 👋
+
+Currently a student at Ecole 42 since November 2022, I've had the opportunity to develop my skills through various common core projects. These projects have enabled me to strengthen my programming foundations, explore new technologies and take on stimulating technical challenges. :
+
+---
+
+## **MiniRT** 🎨  
+MiniRT is a minimalist raytracing renderer, designed to generate realistic 3D images using raytracing algorithms.  
+- **Technologies used:** C, 3D mathematics (vectors, matrices), raytracing algorithms.  
+- **Acquired skills :**  
+  - Low-level project management in C.  
+  - Optimizing calculations to improve performance.  
+  - Design and implementation of graphic algorithms (lights, shadows, reflection).  
+
+---
+
+## **IRC (Internet Relay Chat)** 📡  
+This project consisted in developing an IRC server and client compliant with the RFC 2812 protocol specifications, enabling real-time communication between users..  
+- **Technologies used :** C++, network sockets, TCP/IP.  
+- **Acquired skills :**  
+  - Control network communications and manage multiple connections.  
+  - Implementing client-server protocols.  
+  - Thread and concurrency management for multi-user environments.  
+
+---
+
+## **Transcendance** 🕹️  
+Transcendance is a full-stack web project combining a solid backend and an interactive frontend, with advanced features such as OAuth authentication and a real-time interactive game..  
+- **Technologies used :** HTML, CSS, JavaScript, Bootstrap, Python, Django, Django Channels, PostgreSQL, WebSockets, Docker, NGINX.  
+- **Acquired skills :**  
+  - Design and development of a complete web architecture (backend + frontend).  
+  - Creating a responsive user interface with Bootstrap.  
+  - Real-time feature (Friends system, chat, tournament) development with Django Channels and WebSockets.  
+  - Deploying a containerized web application with Docker and NGINX.  
+
+---
+📬 **Contact :** [amugnier@student.42.fr](mailto:amugnier@student.42.fr) | [LinkedIn](https://www.linkedin.com/in/antoine-mugnier)
+
+
+
+
 #
 ![Neoblacks's | Antoine GitHub stats](https://github-readme-stats.vercel.app/api?username=Neoblacks&show_icons=true&theme=dark)	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neoblacks&layout=compact&theme=dark)
 

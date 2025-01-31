@@ -1,6 +1,11 @@
 # Hello world 🖖
 
-Currently a student at Ecole 42 since November 2022, I've had the opportunity to develop my skills through various common core projects. These projects have enabled me to strengthen my programming foundations, explore new technologies and take on stimulating technical challenges. :
+Currently a student at Ecole 42 since November 2022, I've had the opportunity to develop my skills through various common core projects.
+In parallel with my studies, I also worked on a personal project with a colleague using the school's API, which met a great success with students and staff alike : [Friends42](https://github.com/wow0000/friends42)
+
+Used by over **4,200 unique users**, with an average of **2,000 visits per day**, **Friends42** has become **one of the most widely used tools at Ecole 42.** This experience has enabled me to learn new skills in a real-life context, and to optimize the user experience on a large scale.
+
+Here's an overview of the three common core projects I'm particularly proud of :
 
 ---
 
